@@ -2,4 +2,4 @@
 
 Author - Adithya Ramachar
 
-ML project
+ML Portofolio project 
